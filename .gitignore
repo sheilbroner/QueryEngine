@@ -1,0 +1,7 @@
+.idea/
+.ipynb_checkpoints/
+secrets/*
+!secrets/.gitkeep
+venv
+*.ipynb
+docker_commands
